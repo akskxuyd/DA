@@ -1,0 +1,46 @@
+[
+  {
+    "content": "Restore repo skaksudggd/DA ke /app + bootstrap env",
+    "status": "completed"
+  },
+  {
+    "content": "3 gate merah warisan sesi lalu → HIJAU (INV-F14 34/34, INV-F3 55/55, INV-F10 21/21)",
+    "status": "completed"
+  },
+  {
+    "content": "Perbaiki seeder demo roll kain (bootstrap 4 gagal → 0, idempoten)",
+    "status": "completed"
+  },
+  {
+    "content": "Fase G batch-3A: 5 jenis SDM/Keuangan + pintu pinjaman legacy dimatikan",
+    "status": "completed"
+  },
+  {
+    "content": "Fase G batch-3B: Permak, Permintaan Komponen/Aksesoris/Kreator, Retur Produksi",
+    "status": "completed"
+  },
+  {
+    "content": "Fase G batch-3C: Pengeluaran FG, PR Aksesoris, Sampel Maklon, Aset Tetap, Aset Inventaris + 10 form yang ditegakkan tapi tanpa kolom nomor",
+    "status": "completed"
+  },
+  {
+    "content": "Audit katalog penomoran (G12): 5 seri nomor tak terdaftar ditemukan & dibereskan",
+    "status": "completed"
+  },
+  {
+    "content": "Rebuild frontend static bundle",
+    "status": "in_progress"
+  },
+  {
+    "content": "Jalankan seluruh suite `bash scripts/gate.sh` → VERDICT HIJAU",
+    "status": "pending"
+  },
+  {
+    "content": "E2E testing_agent_v3 (form nomor dokumen otomatis/manual di layar)",
+    "status": "pending"
+  },
+  {
+    "content": "Update plan.md + memory/CHANGELOG.md + ROADMAP + HANDOFF_NEXT_AGENT.md",
+    "status": "pending"
+  }
+]
